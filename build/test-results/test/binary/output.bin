@@ -1,0 +1,38 @@
+{
+    "status": "200",
+    "data": {
+*        "id": "5e38fabf816db70006a1b597",
+%        "campaignName": "Test Java",
+&        "campaignShortName": "12231",
+%        "creatorName": "bridgelabz",
+        "source": null,
+        "location": null,
+2        "createdDate": "2020-02-04T05:01:51.895",
+2        "updatedDate": "2020-02-04T05:01:51.895",
+,        "startDate": "2020-02-04T00:00:00",
+*        "endDate": "2020-02-05T00:00:00",
+        "eventDate": null,
+"        "interviewMessage": null,
+"        "interviewAddress": null,
+        "maxAttemptCount": 0,
+        "status": null,
+,        "campaignPurpose": "REGISTER_ONLY",
++        "campaignType": "ONLINE_CAMPAIGN",
+         "campaignTypeId": null,
+%        "questionSetFormatId": null,
+        "templateId": null,
+        "role": "QA",
+        "registeredUserIds": [
+'            "5e39130c1d9be80006c814cb"
+        ],
+"        "passingPercentage": 0.0,
+         "resumeMinutesTime": 0,
+        "tokenMinutesTime": 0,
+R        "campaignUrl": "http://codingcafetest-stg.bridgelabz.com/register/12231",
+#        "resultTemplateUrl": null,
+(        "additionalInformation": false,
+        "paid": false,
+        "default": false
+    },
+1    "message": "Campaign retrieved successfully"
+}
